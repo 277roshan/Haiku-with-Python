@@ -1,0 +1,7 @@
+consumer_key = '38vNbwuDUwBa9Gv5k77zjtruv'
+consumer_secret = '1eS8PNFA0PS3Ax37AXLCV8InWnEjUvJEwYgWpcKakFG7OmtACU'
+access_token = '300084021-tYzcJDZazKmwlTvkzmQjJ4RE7FBQaHlmzFgJgR4e'
+access_token_secret = 'EXPgonZgckr1MrHlNGIXvidoSilF6KUTjQ1wSWXCC8OT3'
+
+api_key='38vNbwuDUwBa9Gv5k77zjtruv'
+api_secret='1eS8PNFA0PS3Ax37AXLCV8InWnEjUvJEwYgWpcKakFG7OmtACU'
